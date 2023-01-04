@@ -1,3 +1,13 @@
+body{
+	background-color: #67BFD8;   
+}
+
 h1{
-color:blue;
+	color: blue;
+	display: inline;
+  padding: 10px;
+}
+
+div {
+    background-color: white;
 }
